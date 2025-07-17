@@ -3,7 +3,7 @@ title: "Intersecting Memories of Immunity and Climate: Potential Multiyear Impac
 collection: publications
 category: manuscripts
 permalink: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about potential interactions between climate and infectious disease variability.'
 date: 2025-11-02
 venue: 'GeoHealth'
 paperurl: '[http://mayavchung.github.io/files/paper1.pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193)'
