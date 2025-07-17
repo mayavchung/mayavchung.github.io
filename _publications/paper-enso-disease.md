@@ -2,7 +2,7 @@
 title: "Intersecting Memories of Immunity and Climate: Potential Multiyear Impacts of the El Niño–Southern Oscillation on Infectious Disease Spread"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-paper-enso-disease
+permalink: /publication/paper-enso-disease
 excerpt: 'Impacts of climate variability on infectious disease outbreaks. Featured in [Eos magazine](https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks).'
 date: 2025-11-02
 venue: 'GeoHealth'
