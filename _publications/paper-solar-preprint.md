@@ -1,5 +1,5 @@
 ---
-title: "Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake."
+title: "Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake"
 collection: publications
 category: manuscripts
 permalink: /publication/paper-solar-change
