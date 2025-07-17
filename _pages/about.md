@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Atmospheric and Oceanic Sciences at Princeton University in Professor Gabriel Vecchi's research group.
+I am a PhD Candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/).
 
 My research interests are in global climate variability and change, including the role of the ocean in climate, natural climate variability, extreme heating and cooling, and extreme weather. I use climate models and observations to study climate on seasonal to centennial timescales. I am also interested in climate and weather impacts on human health via infectious diseases and extreme heat.
 
