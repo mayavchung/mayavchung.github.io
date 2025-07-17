@@ -11,7 +11,7 @@ I am a PhD Candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton
 
 My research interests are in global climate variability and change, including the role of the ocean in climate, natural climate variability, extreme heating and cooling, and extreme weather. I use climate models and observations to study climate on seasonal to centennial timescales. I am also interested in climate and weather impacts on human health via infectious diseases and extreme heat. 
 
-My recent publications & preprints are about [how climate models simulate global cooling differently](https://essopenarchive.org/doi/full/10.22541/essoar.175190999.97949534) and [El Niño--Southern Oscillation impacts on airborne diseases](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193).
+My recent publications & preprints are about how [climate models simulate global cooling differently](https://essopenarchive.org/doi/full/10.22541/essoar.175190999.97949534) and how the [El Niño-Southern Oscillation impacts airborne diseases](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193).
 
 I am a current High Meadows Environmental Institute [Science, Technology, and Environmental Policy Fellow](https://environment.princeton.edu/education/hmei-step/) and was previously funded by the National Science Foundation Graduate Research Fellowship [(NSF GRFP)](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and the [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/).
 
