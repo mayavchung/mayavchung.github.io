@@ -22,7 +22,7 @@ repository               : "mayavchung/mayavchung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MayaChung_princeton copy.jpeg"
+  avatar           : "MayaChung_princeton.jpeg"
   name             : "Maya V. Chung"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Atmospheric and Oceanic Sciences"
