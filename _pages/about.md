@@ -13,4 +13,6 @@ My research interests are in global climate variability and change, including th
 
 Previously I worked as a 5th grade teacher in Boston Public Schools through City Year Boston, a science teacher at the Children's School of Science, and a museum curator and scientific illustrator at the Smithonian National Museum of Natural History.
 
+For the most recent updates on my research, please see my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
+
 
