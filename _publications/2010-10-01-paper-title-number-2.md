@@ -3,7 +3,7 @@ title: "Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturni
 collection: publications
 category: manuscripts
 permalink: /publication/paper-enso-disease
-excerpt: 'Under extreme cooling, inter-model differences in the development of a Pacific Ocean overturning circulation influence global climate.
+excerpt: 'Under extreme cooling, inter-model differences in the development of a Pacific Ocean overturning circulation influence sea ice cover and global climate.
 
 
 Citation: **Maya V. Chung,** Wenchang Yang, Gabriel Vecchi. Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake. *ESS Open Archive*. July 07, 2025.
