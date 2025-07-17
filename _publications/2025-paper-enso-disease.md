@@ -3,7 +3,7 @@ title: "Intersecting Memories of Immunity and Climate: Potential Multiyear Impac
 collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-enso-disease
-excerpt: 'Impacts of climate variability on infectious disease outbreaks. Featured in Eos magazine.'
+excerpt: 'Impacts of climate variability on infectious disease outbreaks. Featured in [Eos magazine](https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks).'
 date: 2025-11-02
 venue: 'GeoHealth'
 paperurl: 'mayavchung.github.io/files/paper-enso-disease.pdf'
