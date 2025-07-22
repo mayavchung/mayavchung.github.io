@@ -28,12 +28,12 @@ My research focuses on global climate variability and change, especially the rol
   </a>
 
   <a href="{{ '/research/enso-disease' | relative_url }}" class="science-box">
-    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="ENSO and Disease Spread" />
+    <img src="{{ '/images/rsv-micrograph.jpg' | relative_url }}" alt="ENSO and Disease Spread" />
     <h3>How does the El Niño-Southern Oscillation influence airborne disease spread?</h3>
   </a>
 
   <a href="{{ '/research/TC-climate' | relative_url }}" class="science-box">
-    <img src="{{ '/images/TC.png' | relative_url }}" alt="TCs and climate" />
+    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="TCs and climate" />
     <h3>How will hurricanes change with climate change?</h3>
   </a>
 
