@@ -243,3 +243,10 @@
     }
   }
 }
+
+.teaching-title {
+  color: var(--global-link-color); /* or a hex code like #1e2142 */
+  font-weight: bold;
+  text-decoration: none; /* no underline */
+  margin-bottom: 0.3em;
+}
