@@ -1,7 +1,8 @@
 ---
 title: "How does the El Niño–Southern Oscillation influence airborne disease spread?"
 permalink: /research/enso-disease/
-layout: default
+layout: single
+author_profile: true
 ---
 
 # How does the El Niño–Southern Oscillation influence airborne disease spread?
