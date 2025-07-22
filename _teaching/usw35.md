@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/usw35
 venue: "Harvard College Program in General Education"
-date: 2018
+date: 2018-09-01
 location: "Cambridge, MA"
 ---
 
