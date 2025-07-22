@@ -6,7 +6,7 @@ layout: page
 
 # How does the El Niño–Southern Oscillation influence airborne disease spread?
 
-The El Niño–Southern Oscillation (ENSO) significantly influences global climate patterns and has been linked to variations in airborne infectious disease outbreaks. Understanding these relationships helps improve disease forecasting and public health preparedness.
+Many infectious diseases are sensitive to environmental conditions, such as temperature, precipitation, and humidity, and exhibit year-to-year variations in disease outbreaks. These variations can be affected by interannual climate variability driven by the El Niño-Southern Oscillation (ENSO), as well as population immunity driven by previous outbreaks. This work models how these climate and disease factors may interact, and finds that effects of ENSO on disease can grow in magnitude and last beyond the duration of ENSO events due to the lasting effects of population immunity on infections. We also find that consecutive ENSO events, which often occur in reality, may have amplified multi-year effects on infections. These results motivate high-quality disease surveillance to more accurately estimate population immunity, which supports better prediction of climate-related changes in infectious disease outbreaks.
 
 ## Featured Publication
 
