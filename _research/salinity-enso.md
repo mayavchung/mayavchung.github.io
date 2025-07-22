@@ -13,7 +13,7 @@ Understanding how the El Ni\~{n}o--Southern Oscillation (ENSO) responds to ocean
 
 <iframe 
     src="/files/salinity-ENSO-invited-poster-AGU23.pdf" 
-    width="100%" 
+    width="75%" 
     height="700px" 
     style="border: 1px solid #ccc;"
     allowfullscreen
