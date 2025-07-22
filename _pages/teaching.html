@@ -12,6 +12,12 @@ author_profile: true
 {% assign mentoring = site.teaching | where: "type", "Mentoring" %}
 {% assign other = site.teaching | where: "type", "Other" %}
 
+{% capture venue_location %}
+  {% if post.venue %}{{ post.venue }}{% endif %}
+  {% if post.venue and post.location %}, {% endif %}
+  {% if post.location %}{{ post.location }}{% endif %}
+{% endcapture %}
+
 {% if university.size > 0 %}
 <h2>University Courses</h2>
 {% for post in university reversed %}
@@ -23,11 +29,14 @@ author_profile: true
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
     
-    {% if post.venue %}
-      <p><em>Venue: {{ post.venue }}</em></p>
-    {% endif %}
-    {% if post.location %}
-      <p><em>Location: {{ post.location }}</em></p>
+    {% capture venue_location %}
+      {% if post.venue %}{{ post.venue }}{% endif %}
+      {% if post.venue and post.location %}, {% endif %}
+      {% if post.location %}{{ post.location }}{% endif %}
+    {% endcapture %}
+    
+    {% if venue_location != "" %}
+      <p><em>{{ venue_location }}</em></p>
     {% endif %}
     
     <p>{{ post.excerpt }}</p>
@@ -46,11 +55,14 @@ author_profile: true
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
     
-    {% if post.venue %}
-      <p><em>Venue: {{ post.venue }}</em></p>
-    {% endif %}
-    {% if post.location %}
-      <p><em>Location: {{ post.location }}</em></p>
+    {% capture venue_location %}
+      {% if post.venue %}{{ post.venue }}{% endif %}
+      {% if post.venue and post.location %}, {% endif %}
+      {% if post.location %}{{ post.location }}{% endif %}
+    {% endcapture %}
+    
+    {% if venue_location != "" %}
+      <p><em>{{ venue_location }}</em></p>
     {% endif %}
     
     <p>{{ post.excerpt }}</p>
@@ -69,11 +81,14 @@ author_profile: true
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
     
-    {% if post.venue %}
-      <p><em>Venue: {{ post.venue }}</em></p>
-    {% endif %}
-    {% if post.location %}
-      <p><em>Location: {{ post.location }}</em></p>
+    {% capture venue_location %}
+      {% if post.venue %}{{ post.venue }}{% endif %}
+      {% if post.venue and post.location %}, {% endif %}
+      {% if post.location %}{{ post.location }}{% endif %}
+    {% endcapture %}
+    
+    {% if venue_location != "" %}
+      <p><em>{{ venue_location }}</em></p>
     {% endif %}
     
     <p>{{ post.excerpt }}</p>
@@ -92,11 +107,14 @@ author_profile: true
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
     
-    {% if post.venue %}
-      <p><em>Venue: {{ post.venue }}</em></p>
-    {% endif %}
-    {% if post.location %}
-      <p><em>Location: {{ post.location }}</em></p>
+    {% capture venue_location %}
+      {% if post.venue %}{{ post.venue }}{% endif %}
+      {% if post.venue and post.location %}, {% endif %}
+      {% if post.location %}{{ post.location }}{% endif %}
+    {% endcapture %}
+    
+    {% if venue_location != "" %}
+      <p><em>{{ venue_location }}</em></p>
     {% endif %}
     
     <p>{{ post.excerpt }}</p>
