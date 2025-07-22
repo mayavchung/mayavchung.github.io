@@ -4,15 +4,24 @@ permalink: /research/salinity-enso/
 layout: default
 ---
 
-# The influence of sea surface salinity variability on the equatorial Pacific mean state and extreme El Niño events
+# How does salinity impact year-to-year climate variability?
 
-Sea surface salinity (SSS) variability plays a crucial role in shaping the equatorial Pacific mean state and modulating extreme El Niño events. Understanding these processes helps improve climate model predictions and our grasp of climate variability mechanisms.
+Understanding how the El Ni\~{n}o--Southern Oscillation (ENSO) responds to ocean surface salinity variability is important given expected increases in salinity variability with climate change and the intensifying hydrologic cycle. Using globally-coupled climate model experiments, this study demonstrates that sub-seasonal variations in surface salinity can strengthen ENSO events by increasing ocean subsurface stratification, indicating the importance of accurately simulating sub-seasonal variability for the tropical Pacific mean state and ENSO simulations. These findings underscore the need for high-resolution salinity measurements from observational campaigns and further modeling experiments to clarify the role of salinity in climate.
 
-## Invited Poster
+## Invited Poster: "The influence of sea surface salinity variability on the equatorial Pacific mean state and extreme El Niño events"
 
-You can view and download the invited poster here:
 
-[**Download Poster (PDF)**](/files/salinity-ENSO-invited-poster-AGU23.pdf){: target="_blank" rel="noopener"}
+<iframe 
+    src="/files/salinity-ENSO-invited-poster-AGU23.pdf" 
+    width="100%" 
+    height="700px" 
+    style="border: 1px solid #ccc;"
+    allowfullscreen
+></iframe>
+
+<p>
+  If you have trouble viewing the poster above, you can <a href="/files/salinity-ENSO-invited-poster-AGU23.pdf" target="_blank" rel="noopener">download it here</a>.
+</p>
 
 ---
 
