@@ -10,7 +10,7 @@ Warming of the surface ocean from anthropogenic (human-induced) climate change i
 
 ## Featured Publication
 
-- **Knutson, T., Chung, M., et al.** (2024). *Climate change is probabbly increasing the intensity of tropical cyclones*. ScienceBrief Review.  
+- Knutson, T., **Chung, M., et al.** (2021). *Climate change is probabbly increasing the intensity of tropical cyclones*. ScienceBrief Review.  
   Read the full paper here: [https://tyndall.ac.uk/wp-content/uploads/2023/10/ScienceBrief_Review_CYCLONES_Mar2021.pdf]
 
 ## Media Feature
