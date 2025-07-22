@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign university = site.teaching | where: "type", "University Courses" %}
-{% assign k12 = site.teaching | where: "type", "K–12" %}
+{% assign university = site.teaching | where: "type", "University Course" %}
+{% assign k12 = site.teaching | where: "type", "K–12 Teaching" %}
 {% assign mentoring = site.teaching | where: "type", "Mentoring" %}
 {% assign other = site.teaching | where: "type", "Other" %}
 
