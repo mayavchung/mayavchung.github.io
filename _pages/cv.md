@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+author_profile: true
 ---
 
 <div class="cv-container">
