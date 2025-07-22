@@ -13,29 +13,26 @@ I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton
 
 My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
 
-## Recent Work
+## Key Science Questions
 
 <div class="science-boxes">
 
   <a href="{{ '/research/solar-cooling' | relative_url }}" class="science-box">
-    <img src="{{ '/assets/images/cooling.ice' | relative_url }}" alt="Climate Model Cooling" />
+    <img src="{{ '/images/cooling.ice' | relative_url }}" alt="Climate Model Cooling" />
     <h3>How do climate models represent cooling?</h3>
   </a>
 
   <a href="{{ '/research/salinity-enso' | relative_url }}" class="science-box">
-    <img src="{{ '/assets/images/enso-sir.png' | relative_url }}" alt="Ocean Salinity and Climate Variability" />
+    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="Ocean Salinity and Climate Variability" />
     <h3>How does ocean salinity impact year-to-year climate variability?</h3>
   </a>
 
   <a href="{{ '/research/enso-disease' | relative_url }}" class="science-box">
-    <img src="{{ '/assets/images/enso-sir.png' | relative_url }}" alt="ENSO and Disease Spread" />
+    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="ENSO and Disease Spread" />
     <h3>How does the El Niño-Southern Oscillation influence airborne disease spread?</h3>
   </a>
 
 </div>
-
-
-explores how [climate models simulate global cooling differently](https://essopenarchive.org/doi/full/10.22541/essoar.175190999.97949534) and how the [El Niño–Southern Oscillation influences airborne disease transmission](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193). 
 
 For the latest updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
