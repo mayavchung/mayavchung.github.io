@@ -49,6 +49,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 * [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/). 
 
 ## Other Experience
+* Professional Development Associate in Science Policy, [GradFUTURES](https://gradfutures.princeton.edu/), Princeton University, 2024-2025
 * AmeriCorps Member / 5th Grade Teacher, [City Year](https://www.cityyear.org/), 2019-2020
 * Science Teacher, [Children’s School of Science](https://childrensschoolofscience.org/), 2019
 * Curator & Scientific Illustrator, Smithsonian [National Museum of Natural History](https://naturalhistory.si.edu/), 2013-2015
