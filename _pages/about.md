@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/).
 
-My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
+I study global climate variability and change, with a focus on how the ocean shapes climate patterns, extreme weather, and long-term warming and cooling. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. I am also interested in the intersections between climate and human health, including how climate and weather variability affect infectious diseases and mortality.
 
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
