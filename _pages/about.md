@@ -46,7 +46,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 
 ## Funding
 * [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) 
-* [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/). 
+* [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/)
 
 ## Other Experience
 * Professional Development Associate in Science Policy, [GradFUTURES](https://gradfutures.princeton.edu/), Princeton University, 2024-2025
