@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate & Law School course"
 permalink: /teaching/environmental-governance
 venue: "Princeton University School of Public and International Affairs, New York University School of Law"
-date: 2025
+date: 2025-04-04
 location: "Princeton, NJ and New York, NY"
 ---
 
