@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 
+Most climate research focuses on warming, but we investigate climate model disagreements under global cooling, which are relevant to geoengineering and connecting past climates to future changes.
+
+## Research Summary
+
 Understanding both warming and cooling of the climate system is crucial for studying past climates, predicting climate changes under different greenhouse gas emission scenarios, and connecting past climates to future changes. This study compares how two climate models respond to sudden increases and decreases in incoming sunlight. While both models show similar warming and moderate cooling responses, they behave differently under strong cooling. In one model, sea ice rapidly expands and reaches the tropics within a few centuries, whereas in the other, ice growth never reaches that point even after running the simulations for nearly twice as long. We find that in the second model, an ocean overturning circulation develops in the Pacific that transports heat from the Equator northward. This process prevents sea ice from advancing by melting it from below. These findings emphasize the need to examine the ocean's role in climate change, run models for multiple centuries, and conduct more simple perturbation experiments including cooling scenarios to better understand discrepancies between climate models.
 
 ## Featured Preprint
