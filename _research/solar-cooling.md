@@ -1,7 +1,7 @@
 ---
 title: "How do climate models represent cooling?"
 permalink: /research/solar-cooling/
-layout: page
+layout: default
 ---
 
 # How do climate models represent cooling?
