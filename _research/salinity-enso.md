@@ -2,6 +2,7 @@
 title: "How does salinity impact year-to-year climate variability?"
 permalink: /research/salinity-enso/
 layout: default
+author_profile: true
 ---
 
 # How does salinity impact year-to-year climate variability?
