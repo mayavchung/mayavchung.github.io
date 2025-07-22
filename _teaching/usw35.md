@@ -1,7 +1,7 @@
 ---
 title: "USW 35: Dilemmas of Equity and Excellence in American K-12 Education"
 collection: teaching
-type: "Undergraduate Course"
+type: "University Course"
 permalink: /teaching/usw35
 venue: "Harvard College Program in General Education"
 date: 2018-09-01
