@@ -1,7 +1,7 @@
 ---
 title: "How will hurricanes change with climate change?"
 permalink: /research/enso-disease/
-layout: default
+layout: single
 author_profile: true
 ---
 
