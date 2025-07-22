@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate / Undergraduate Course"
 permalink: /teaching/ocean-physics
 venue: "Princeton University, Department of Geosciences and Mechanical and Aerospace Engineering"
-date: Fall 2022
+date: 2022
 location: "Princeton, NJ"
 ---
 
