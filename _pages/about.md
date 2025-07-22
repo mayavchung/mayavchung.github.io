@@ -16,7 +16,6 @@ My research focuses on global climate variability and change, especially the rol
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
 ## Recent Projects
-
 <div class="science-boxes">
 
   <a href="{{ '/research/solar-cooling' | relative_url }}" class="science-box">
