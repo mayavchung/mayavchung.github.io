@@ -11,4 +11,4 @@ location: "Woods Hole, MA"
 
 Designed curricula and taught hands-on, field-based summer courses for students ages 8-12. Courses: Marine Biology, Invertebrate Zoology.
 
-More info here: https://childrensschoolofscience.org/
+More info here: [https://childrensschoolofscience.org/](https://childrensschoolofscience.org/)
