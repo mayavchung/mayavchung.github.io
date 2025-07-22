@@ -34,7 +34,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
   </a>
 
   <a href="{{ '/research/TC-climate' | relative_url }}" class="science-box">
-    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="TCs and climate" />
+    <img src="{{ '/images/hurricane.jpg' | relative_url }}" alt="TCs and climate" />
     <h3>How will hurricanes change with climate change?</h3>
   </a>
 
