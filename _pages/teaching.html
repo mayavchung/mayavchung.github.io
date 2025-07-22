@@ -15,27 +15,59 @@ author_profile: true
 {% if university.size > 0 %}
 <h2>University Courses</h2>
 {% for post in university reversed %}
-  {% include archive-single.html %}
+  <article>
+    <h3>{{ post.title }}</h3>
+    {% if post.years %}
+      <p><strong>{{ post.years }}</strong></p>
+    {% else %}
+      <p><strong>{{ post.date | date: "%Y" }}</strong></p>
+    {% endif %}
+    <p>{{ post.excerpt }}</p>
+  </article>
 {% endfor %}
 {% endif %}
 
 {% if k12.size > 0 %}
 <h2>K–12 Teaching</h2>
 {% for post in k12 reversed %}
-  {% include archive-single.html %}
+  <article>
+    <h3>{{ post.title }}</h3>
+    {% if post.years %}
+      <p><strong>{{ post.years }}</strong></p>
+    {% else %}
+      <p><strong>{{ post.date | date: "%Y" }}</strong></p>
+    {% endif %}
+    <p>{{ post.excerpt }}</p>
+  </article>
 {% endfor %}
 {% endif %}
 
 {% if mentoring.size > 0 %}
 <h2>Mentoring</h2>
 {% for post in mentoring reversed %}
-  {% include archive-single.html %}
+  <article>
+    <h3>{{ post.title }}</h3>
+    {% if post.years %}
+      <p><strong>{{ post.years }}</strong></p>
+    {% else %}
+      <p><strong>{{ post.date | date: "%Y" }}</strong></p>
+    {% endif %}
+    <p>{{ post.excerpt }}</p>
+  </article>
 {% endfor %}
 {% endif %}
 
 {% if other.size > 0 %}
 <h2>Other Teaching</h2>
 {% for post in other reversed %}
-  {% include archive-single.html %}
+  <article>
+    <h3>{{ post.title }}</h3>
+    {% if post.years %}
+      <p><strong>{{ post.years }}</strong></p>
+    {% else %}
+      <p><strong>{{ post.date | date: "%Y" }}</strong></p>
+    {% endif %}
+    <p>{{ post.excerpt }}</p>
+  </article>
 {% endfor %}
 {% endif %}
