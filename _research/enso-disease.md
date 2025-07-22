@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 
+Some infectious diseases are sensitive to changes in weather and climate, and year-to-year variations in climate may have long-term impacts on infectious disease outbreaks through complex interactions with population immunity.
+
+## Research summary
+
 Many infectious diseases are sensitive to environmental conditions, such as temperature, precipitation, and humidity, and exhibit year-to-year variations in disease outbreaks. These variations can be affected by interannual climate variability driven by the El Niño-Southern Oscillation (ENSO), as well as population immunity driven by previous outbreaks. This work models how these climate and disease factors may interact, and finds that effects of ENSO on disease can grow in magnitude and last beyond the duration of ENSO events due to the lasting effects of population immunity on infections. We also find that consecutive ENSO events, which often occur in reality, may have amplified multi-year effects on infections. These results motivate high-quality disease surveillance to more accurately estimate population immunity, which supports better prediction of climate-related changes in infectious disease outbreaks.
 
 ## Featured Publication
