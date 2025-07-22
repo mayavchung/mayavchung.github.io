@@ -12,7 +12,7 @@ Sea surface salinity (SSS) variability plays a crucial role in shaping the equat
 
 You can view and download the invited poster here:
 
-[**Download Poster (PDF)**](/files/salinity_enso_invited_poster.pdf){: target="_blank" rel="noopener"}
+[**Download Poster (PDF)**](/files/salinity-ENSO-invited-poster-AGU23.pdf){: target="_blank" rel="noopener"}
 
 ---
 
