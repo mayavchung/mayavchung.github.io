@@ -5,7 +5,7 @@ type: "K-12 Teaching"
 permalink: /teaching/city-year
 venue: "Henry Grew Elementary School, Boston Public Schools"
 date: 2019-08-20
-years: "2019-2020"
+years: "2019, 2020"
 location: "Boston, MA"
 ---
 
