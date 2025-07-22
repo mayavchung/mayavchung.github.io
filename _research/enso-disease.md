@@ -10,7 +10,7 @@ Many infectious diseases are sensitive to environmental conditions, such as temp
 
 ## Featured Publication
 
-- **Chung, M., et al.** (2024). *Potential multiyear impacts of the El Niño–Southern Oscillation on infectious disease spread*. GeoHealth.  
+- **Chung, M., et al.** (2025). *Potential multiyear impacts of the El Niño–Southern Oscillation on infectious disease spread*. GeoHealth.  
   Read the full paper here: [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001193)
 
 ## Research Spotlight
