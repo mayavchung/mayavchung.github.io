@@ -13,7 +13,7 @@ I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton
 
 My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
 
-## Key Science Questions
+## Research Projects
 
 <div class="science-boxes">
 
@@ -23,7 +23,7 @@ My research focuses on global climate variability and change, especially the rol
   </a>
 
   <a href="{{ '/research/salinity-enso' | relative_url }}" class="science-box">
-    <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="Ocean Salinity and Climate Variability" />
+    <img src="{{ '/images/enso-salinity.png' | relative_url }}" alt="Ocean Salinity and Climate Variability" />
     <h3>How does ocean salinity impact year-to-year climate variability?</h3>
   </a>
 
