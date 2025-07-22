@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+Contact: mvchung@princeton.edu
+
 <div class="cv-container">
   <iframe src="/files/Maya_Chung_CV_2025.pdf" 
           frameborder="0" 
