@@ -7,6 +7,35 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign university = site.teaching | where: "type", "University Courses" %}
+{% assign k12 = site.teaching | where: "type", "K–12" %}
+{% assign mentoring = site.teaching | where: "type", "Mentoring" %}
+{% assign other = site.teaching | where: "type", "Other" %}
+
+{% if university.size > 0 %}
+<h2>University Courses</h2>
+{% for post in university reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
+
+{% if k12.size > 0 %}
+<h2>K–12 Teaching</h2>
+{% for post in k12 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
+{% if mentoring.size > 0 %}
+<h2>Mentoring</h2>
+{% for post in mentoring reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
+{% if other.size > 0 %}
+<h2>Other Teaching</h2>
+{% for post in other reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
