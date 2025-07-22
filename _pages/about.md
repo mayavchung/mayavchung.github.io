@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*(Note: This website is still under construction. Please see my [Princeton website](https://mayavchung.scholar.princeton.edu/) for more details.)*
+*(Note: This website is still under construction. Please see my [CV](https://mayavchung.github.io/cv/) for more details.)*
 
 I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/).
 
