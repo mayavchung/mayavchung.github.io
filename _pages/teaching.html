@@ -22,6 +22,14 @@ author_profile: true
     {% else %}
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
+    
+    {% if post.venue %}
+      <p><em>Venue: {{ post.venue }}</em></p>
+    {% endif %}
+    {% if post.location %}
+      <p><em>Location: {{ post.location }}</em></p>
+    {% endif %}
+    
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
@@ -37,6 +45,14 @@ author_profile: true
     {% else %}
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
+    
+    {% if post.venue %}
+      <p><em>Venue: {{ post.venue }}</em></p>
+    {% endif %}
+    {% if post.location %}
+      <p><em>Location: {{ post.location }}</em></p>
+    {% endif %}
+    
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
@@ -52,6 +68,14 @@ author_profile: true
     {% else %}
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
+    
+    {% if post.venue %}
+      <p><em>Venue: {{ post.venue }}</em></p>
+    {% endif %}
+    {% if post.location %}
+      <p><em>Location: {{ post.location }}</em></p>
+    {% endif %}
+    
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
@@ -67,6 +91,14 @@ author_profile: true
     {% else %}
       <p><strong>{{ post.date | date: "%Y" }}</strong></p>
     {% endif %}
+    
+    {% if post.venue %}
+      <p><em>Venue: {{ post.venue }}</em></p>
+    {% endif %}
+    {% if post.location %}
+      <p><em>Location: {{ post.location }}</em></p>
+    {% endif %}
+    
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
