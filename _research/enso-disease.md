@@ -15,7 +15,7 @@ Many infectious diseases are sensitive to environmental conditions, such as temp
 
 ## Research Spotlight
 
-- *The Interplay of ENSO and Immunity in Infectious Disease Outbreaks*, featured in [Eos Research Spotlights](https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks)
+- *The Interplay of ENSO and Immunity in Infectious Disease Outbreaks*, featured in [Eos Science News](https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks)
 
 ## Code and Data
 
