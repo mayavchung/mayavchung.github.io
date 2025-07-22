@@ -12,8 +12,8 @@ Understanding how the El Niño-Southern Oscillation (ENSO) responds to ocean sur
 
 <iframe 
     src="/files/salinity-ENSO-invited-poster-AGU23.pdf" 
-    width="75%" 
-    height="700px" 
+    width="100%" 
+    height="400px" 
     style="border: 1px solid #ccc;"
     allowfullscreen
 ></iframe>
