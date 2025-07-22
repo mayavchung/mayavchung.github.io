@@ -425,7 +425,7 @@
 .science-box {
   flex: 1 1 300px;
   max-width: 350px;
-  background: var(--global-footer-bg-color);
+  background: #f9f9f9; // Lighter, near-white background
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
@@ -449,7 +449,15 @@
 
 .science-box h3 {
   font-family: serif;
-  font-weight: 600;
-  color: var(--global-link-color);
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: var(--global-text-color); // Optional: use default text color
+  text-decoration: none;
+}
+
+.science-box a {
+  text-decoration: none;
+  color: inherit;
 }
 
