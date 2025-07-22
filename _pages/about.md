@@ -13,7 +13,7 @@ My research focuses on global climate variability and change, especially the rol
 
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
-## Recent Projects
+## Research Questions
 <div class="science-boxes">
 
   <a href="{{ '/research/solar-cooling' | relative_url }}" class="science-box">
@@ -38,7 +38,18 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 
 </div>
 
-Previously, I was supported by the [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and the [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/). Before graduate school, I earned my undergraduate degree in [Earth and Planetary Sciences](https://eps.harvard.edu/) at Harvard University. 
+## Research Experience
+* PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
+* BA / Undergraduate Researcher, Department of Earth and Planetary Sciences, Harvard University, 2015-2019
+* Summer Student Fellow, Woods Hole Oceanographic Institution, 2018
+* Summer Undergraduate Research Fellow, Scripps Institution of Oceanography, 2017
 
-I have also worked in education and science communication as a 5th grade teacher in Boston Public Schools through [City Year](https://www.cityyear.org/), a science teacher at the [Children’s School of Science](https://childrensschoolofscience.org/), and a museum curator and scientific illustrator at the Smithsonian [National Museum of Natural History](https://naturalhistory.si.edu/).
+## Funding
+* [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) 
+* [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/). 
+
+## Other Experience
+* AmeriCorps Member / 5th Grade Teacher, [City Year](https://www.cityyear.org/), 2019-2020
+* Science Teacher, [Children’s School of Science](https://childrensschoolofscience.org/), 2019
+* Curator & Scientific Illustrator, Smithsonian [National Museum of Natural History](https://naturalhistory.si.edu/), 2013-2015
 
