@@ -15,7 +15,7 @@ author_profile: true
 {% if university.size > 0 %}
 <h2>University Courses</h2>
 {% for post in university reversed %}
-  <article>
+  <article class="teaching-entry">
     <h3 class="teaching-title">{{ post.title }}</h3>
     {% if post.years %}
       <p><strong>{{ post.years }}</strong></p>
@@ -30,7 +30,7 @@ author_profile: true
 {% if k12.size > 0 %}
 <h2>K–12 Teaching</h2>
 {% for post in k12 reversed %}
-  <article>
+  <article class="teaching-entry">
     <h3 class="teaching-title">{{ post.title }}</h3>
     {% if post.years %}
       <p><strong>{{ post.years }}</strong></p>
@@ -45,7 +45,7 @@ author_profile: true
 {% if mentoring.size > 0 %}
 <h2>Mentoring</h2>
 {% for post in mentoring reversed %}
-  <article>
+  <article class="teaching-entry">
     <h3 class="teaching-title">{{ post.title }}</h3>
     {% if post.years %}
       <p><strong>{{ post.years }}</strong></p>
@@ -60,7 +60,7 @@ author_profile: true
 {% if other.size > 0 %}
 <h2>Other Teaching</h2>
 {% for post in other reversed %}
-  <article>
+  <article class="teaching-entry">
     <h3 class="teaching-title">{{ post.title }}</h3>
     {% if post.years %}
       <p><strong>{{ post.years }}</strong></p>
