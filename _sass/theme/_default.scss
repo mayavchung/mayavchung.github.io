@@ -48,8 +48,8 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Custom blue theme */
 :root {
-  --global-base-color                 : #2e2e2e;       /* text */
-  --global-bg-color                   : #f8f9fa;       /* background */
+  --global-base-color                 : #1e2142;       /* text */
+  --global-bg-color                   : #b1cbe6;       /* background */
   --global-footer-bg-color            : #e2e8f0;       /* light blue-gray footer */
   --global-border-color               : #d0d7de;       /* light border */
   --global-dark-border-color          : #94a3b8;
@@ -64,6 +64,11 @@ $sidebar-screen-min-width   : 1024px;
   --global-text-color-light           : #7a8288;
   --global-thead-color                : #e0e0e0;
 }
+
+// body {
+//   background-color: var(--global-bg-color) !important;
+//   color: var(--global-text-color) !important;
+// }
 
 // :root {
 //   --global-link-color: #ff0000 !important; /* bright red */
