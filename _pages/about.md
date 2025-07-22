@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-*(Note: This website is still under construction. Please see my [CV](https://mayavchung.github.io/cv/) for more details.)*
-
 I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/).
 
 My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
