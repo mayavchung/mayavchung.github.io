@@ -1,7 +1,7 @@
 ---
 title: "SPI 586D: Global Environmental Governance"
 collection: teaching
-type: "Graduate & Law School course"
+type: "University Course"
 permalink: /teaching/environmental-governance
 venue: "Princeton University School of Public and International Affairs, New York University School of Law"
 date: 2025-04-04
