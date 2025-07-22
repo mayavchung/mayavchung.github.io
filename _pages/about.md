@@ -13,7 +13,9 @@ I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton
 
 My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
 
-## Research Projects
+For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
+
+## Recent Projects
 
 <div class="science-boxes">
 
@@ -38,8 +40,6 @@ My research focuses on global climate variability and change, especially the rol
   </a>
 
 </div>
-
-For the latest updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
 Previously, I was supported by the [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and the [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/). Before graduate school, I earned my undergraduate degree in [Earth and Planetary Sciences](https://eps.harvard.edu/) at Harvard University. 
 
