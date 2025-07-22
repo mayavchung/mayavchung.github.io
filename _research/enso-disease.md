@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Some infectious diseases are sensitive to changes in weather and climate, and year-to-year variations in climate may have long-term impacts on infectious disease outbreaks through complex interactions with population immunity.
+Many infectious diseases are sensitive to changes in weather and climate, and year-to-year variations in climate may have long-term impacts on infectious disease outbreaks through complex interactions with population immunity.
 
 ## Research summary
 
