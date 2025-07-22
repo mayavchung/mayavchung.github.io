@@ -9,7 +9,7 @@ redirect_from:
 
 *(Note: This website is still under construction. Please see my [Princeton website](https://mayavchung.scholar.princeton.edu/) for more details.)*
 
-I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/)
+I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/).
 
 My research focuses on global climate variability and change, especially the role of the ocean in shaping climate patterns, extreme weather, and global warming and cooling. I use climate models and observational data to study the climate system across seasonal to centennial timescales. I am also interested in the intersection of climate and human health, including how infectious diseases and mortality are influenced by climate and weather variability.
 
@@ -30,6 +30,11 @@ My research focuses on global climate variability and change, especially the rol
   <a href="{{ '/research/enso-disease' | relative_url }}" class="science-box">
     <img src="{{ '/images/enso-sir.png' | relative_url }}" alt="ENSO and Disease Spread" />
     <h3>How does the El Niño-Southern Oscillation influence airborne disease spread?</h3>
+  </a>
+
+  <a href="{{ '/research/TC-climate' | relative_url }}" class="science-box">
+    <img src="{{ '/images/TC.png' | relative_url }}" alt="TCs and climate" />
+    <h3>How will hurricanes change with climate change?</h3>
   </a>
 
 </div>
