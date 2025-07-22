@@ -1,5 +1,5 @@
 ---
-title: "City Year Boston"
+title: "City Year Greater Boston"
 collection: teaching
 type: "K-12 Teaching"
 permalink: /teaching/city-year
@@ -10,3 +10,5 @@ location: "Boston, MA"
 ---
 
 Provided holistic support and tracked student data in a 5th grade classroom, including individual and small-group tutoring in math and reading, social-emotional coaching, after-school enrichment, and school-wide programming.
+
+More info here: [https://www.cityyear.org/boston/](https://www.cityyear.org/boston/)
