@@ -18,7 +18,7 @@ My research focuses on global climate variability and change, especially the rol
 <div class="science-boxes">
 
   <a href="{{ '/research/solar-cooling' | relative_url }}" class="science-box">
-    <img src="{{ '/images/cooling.ice' | relative_url }}" alt="Climate Model Cooling" />
+    <img src="{{ '/images/ice.png' | relative_url }}" alt="Climate Model Cooling" />
     <h3>How do climate models represent cooling?</h3>
   </a>
 
