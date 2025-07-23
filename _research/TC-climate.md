@@ -1,6 +1,6 @@
 ---
 title: "How will hurricanes change with climate change?"
-permalink: /research/enso-disease/
+permalink: /research/TC-climate/
 layout: single
 author_profile: true
 ---
