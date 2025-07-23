@@ -432,7 +432,7 @@
   padding: 1rem;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   text-decoration: none;
-  color: inherit;
+  color: black; //inherit;
   display: block;
 }
 
@@ -452,12 +452,12 @@
   font-weight: bold;
   font-size: 1.2rem;
   margin: 0.5rem 0;
-  color: var(--global-text-color); // Optional: use default text color
+  color: black; // var(--global-text-color); // Optional: use default text color
   text-decoration: none;
 }
 
 .science-box a {
   text-decoration: none;
-  color: inherit;
+  color: black; //inherit;
 }
 
