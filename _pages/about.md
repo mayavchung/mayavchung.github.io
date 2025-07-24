@@ -45,7 +45,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 * Summer Undergraduate Research Fellow, Scripps Institution of Oceanography, 2017
 
 ## Funding
-* [High Meadows Environmental Institute Science, Technology, and Environmental Policy Fellowship (HMEI-STEP) ](https://environment.princeton.edu/education/hmei-step/), supported by the William Clay Ford, Jr ’79 and Lisa Vanderzee Ford ’82 Graduate Fellowship Fund
+* [High Meadows Environmental Institute Science, Technology, and Environmental Policy Fellowship (HMEI-STEP)](https://environment.princeton.edu/education/hmei-step/)
 * [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) 
 * [American Meteorological Society Graduate Fellowship](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/)
 
