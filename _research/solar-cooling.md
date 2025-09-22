@@ -18,6 +18,16 @@ Understanding both warming and cooling of the climate system is crucial for stud
 
 ## Presentation (ECS & Cloud Feedback Virtual Symposium; Sept 16, 2025)
 
+<div style="text-align:center;">
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/YJK-MvE-Pys?si=p72qakHk08jVJz8T&amp;start=550" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; 
+  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Featured Preprint (Accepted in _Geophysical Research Letters_)
 
 - **Chung, M., et al.** (2025). *Runaway cooling from large solar reductions modulated by ocean overturning circulation and heat uptake*. ESS Open Archive.  
