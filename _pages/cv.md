@@ -8,7 +8,7 @@ author_profile: true
 Contact: mvchung@princeton.edu
 
 <div class="cv-container">
-  <iframe src="/files/Maya_Chung_CV_2025.pdf" 
+  <iframe src="/files/Maya_Chung_CV_2025_sept.pdf" 
           frameborder="0" 
           width="100%" 
           height="800px">
