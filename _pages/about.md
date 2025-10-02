@@ -47,8 +47,6 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 
 ## Media Coverage
 
-## Media Coverage
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
 
   <a href="https://gradfutures.princeton.edu/news/TrainingScientists-toConnect-Policymakers" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
