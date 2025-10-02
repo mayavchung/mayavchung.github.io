@@ -58,7 +58,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
   </a>
 
   <a href="https://vecchi.princeton.edu/news/graduate-student-maya-chung-receives-outstanding-student-presentation-award-agu" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
-    <img src="/images/oster_photo.jpg" alt="AGU Award" style="width:100%; max-height:180px; object-fit: cover;">
+    <img src="/images/poster_photo.jpg" alt="AGU Award" style="width:100%; max-height:180px; object-fit: cover;">
     <div style="padding: 1rem;">
       <strong>Graduate Student Maya Chung receives Outstanding Student Presentation Award from AGU</strong><br>
       <small>Geohealth Section Award, March 2025</small>
@@ -74,7 +74,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
   </a>
 
   <a href="https://www.forbes.com/sites/marshallshepherd/2021/03/27/why-hurricanes-and-typhoons-will-become-more-dangerous/?sh=4fa0173f7ddb" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
-    <img src="images/forbes_logo.png" alt="Forbes Hurricanes" style="width:100%; max-height:180px; object-fit: cover;">
+    <img src="/images/forbes_logo.png" alt="Forbes Hurricanes" style="width:100%; max-height:180px; object-fit: cover;">
     <div style="padding: 1rem;">
       <strong>Why Hurricanes and Typhoons Will Become More Dangerous</strong><br>
       <small><em>Forbes</em>, March 2021</small>
