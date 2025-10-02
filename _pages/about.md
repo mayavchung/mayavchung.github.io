@@ -45,6 +45,24 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 (Eds.), Tropical Cyclones and Associated Impacts (pp. 1–25). _Elsevier._ [https://doi.org/10.1016/B978-0-323-95390-0.00001-7](https://doi.org/10.1016/B978-0-323-95390-0.00001-7)
 * _(Review Paper for Policymakers)_ Knutson, T. R., **Chung, M. V.,** Vecchi, G., Sun, J., Hsieh, T-L. and Smith, A. J. P. (2021). ScienceBrief Review: Climate change is probably increasing the intensity of tropical cyclones. _Critical Issues in Climate Change Science._ [https://doi.org/10.5281/zenodo.4570334](https://doi.org/10.5281/zenodo.4570334)
 
+## Media Coverage
+
+<div class="grid__wrapper">
+
+{% include link-card title="Training the Next Generation of Scientists to Connect with Policymakers" 
+   description="Article I wrote on organizing Princeton's inaugural Science Policy Learning Cohort, August 2025"
+   url="https://gradfutures.princeton.edu/news/TrainingScientists-toConnect-Policymakers" %}
+
+{% include link-card title="Graduate Student Maya Chung receives Outstanding Student Presentation Award from AGU" 
+   description="Geohealth Section Award, March 2025"
+   url="https://vecchi.princeton.edu/news/graduate-student-maya-chung-receives-outstanding-student-presentation-award-agu" %}
+
+{% include link-card title="The Interplay of ENSO and Immunity in Infectious Disease Outbreaks" 
+   description="Research paper highlight in Eos magazine, March 2025"
+   url="https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks" %}
+
+</div>
+
 ## Research Experience
 * PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
 * BA / Undergraduate Researcher, Department of Earth and Planetary Sciences, Harvard University, 2015-2019
