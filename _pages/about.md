@@ -38,6 +38,10 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 
 </div>
 
+## Publications
+* (Accepted) **Chung, M. V.,** Yang, W., Vecchi, G. A. (2025). Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake. _Geophysical Research Letters._ [Preprint here](https://essopenarchive.org/doi/full/10.22541/essoar.175190999.97949534/v2)
+* **Chung, M. V.,** Vecchi, G. A., Yang, W., Grenfell, B., and Metcalf, C. J. (2025). Intersecting memories of immunity and climate: Potential multiyear impacts of the El Niño-Southern Oscillation on infectious disease spread. _GeoHealth_, 9, e2024GH001193. [https://doi.org/10.1029/2024GH001193](https://doi.org/10.1029/2024GH001193)
+
 ## Research Experience
 * PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
 * BA / Undergraduate Researcher, Department of Earth and Planetary Sciences, Harvard University, 2015-2019
