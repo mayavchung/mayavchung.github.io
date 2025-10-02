@@ -69,7 +69,7 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
     <img src="/images/Eos_Logo.png" alt="Eos Highlight" style="width:100%; max-height:180px; object-fit: cover;">
     <div style="padding: 1rem;">
       <strong>The Interplay of ENSO and Immunity in Infectious Disease Outbreaks</strong><br>
-      <small><em>Eos</em> magazine, March 2025</small>
+      <small><em>Eos</em> magazine article on our paper, March 2025</small>
     </div>
   </a>
 
@@ -77,13 +77,11 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
     <img src="/images/forbes_logo.png" alt="Forbes Hurricanes" style="width:100%; max-height:180px; object-fit: cover;">
     <div style="padding: 1rem;">
       <strong>Why Hurricanes and Typhoons Will Become More Dangerous</strong><br>
-      <small><em>Forbes</em>, March 2021</small>
+      <small><em>Forbes</em> article on our paper (quoted), March 2021</small>
     </div>
   </a>
 
 </div>
-
-
 
 ## Research Experience
 * PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
