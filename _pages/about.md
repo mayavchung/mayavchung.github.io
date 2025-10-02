@@ -47,21 +47,40 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 
 ## Media Coverage
 
-<div class="grid__wrapper">
+## Media Coverage
 
-{% include link-card title="Training the Next Generation of Scientists to Connect with Policymakers" 
-   description="Article I wrote on organizing Princeton's inaugural Science Policy Learning Cohort, August 2025"
-   url="https://gradfutures.princeton.edu/news/TrainingScientists-toConnect-Policymakers" %}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
 
-{% include link-card title="Graduate Student Maya Chung receives Outstanding Student Presentation Award from AGU" 
-   description="Geohealth Section Award, March 2025"
-   url="https://vecchi.princeton.edu/news/graduate-student-maya-chung-receives-outstanding-student-presentation-award-agu" %}
+  <a href="https://gradfutures.princeton.edu/news/TrainingScientists-toConnect-Policymakers" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
+    <div style="padding: 1rem;">
+      <strong>Training the Next Generation of Scientists to Connect with Policymakers</strong><br>
+      <small>Article I wrote on organizing Princeton's inaugural Science Policy Learning Cohort, August 2025</small>
+    </div>
+  </a>
 
-{% include link-card title="The Interplay of ENSO and Immunity in Infectious Disease Outbreaks" 
-   description="Research paper highlight in Eos magazine, March 2025"
-   url="https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks" %}
+  <a href="https://vecchi.princeton.edu/news/graduate-student-maya-chung-receives-outstanding-student-presentation-award-agu" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
+    <div style="padding: 1rem;">
+      <strong>Graduate Student Maya Chung receives Outstanding Student Presentation Award from AGU</strong><br>
+      <small>Geohealth Section Award, March 2025</small>
+    </div>
+  </a>
+
+  <a href="https://eos.org/research-spotlights/the-interplay-of-enso-and-immunity-in-infectious-disease-outbreaks" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
+    <div style="padding: 1rem;">
+      <strong>The Interplay of ENSO and Immunity in Infectious Disease Outbreaks</strong><br>
+      <small>Research paper highlight in <em>Eos</em> magazine, March 2025</small>
+    </div>
+  </a>
+
+  <a href="https://www.forbes.com/sites/marshallshepherd/2021/03/27/why-hurricanes-and-typhoons-will-become-more-dangerous/?sh=4fa0173f7ddb" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
+    <div style="padding: 1rem;">
+      <strong>Why Hurricanes and Typhoons Will Become More Dangerous</strong><br>
+      <small>Quoted in <em>Forbes</em>, March 2021</small>
+    </div>
+  </a>
 
 </div>
+
 
 ## Research Experience
 * PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
