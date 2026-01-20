@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Maya V. Chung"
+title: "Maya V. Chung, PhD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD candidate in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University, working in [Professor Gabriel Vecchi's research group](https://vecchi.princeton.edu/). I am also a Science, Technology, and Environmental Policy Fellow at Princeton’s [High Meadows Environmental Institute](https://environment.princeton.edu/education/hmei-step/).
+I am currently a Postdoctoral Research Associate at the [High Meadows Environmental Institute](https://environment.princeton.edu/) at Princeton University. My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
 
-I study global climate variability and change, with a focus on how the ocean shapes climate patterns, extreme weather, and long-term warming and cooling. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. I am also interested in the intersections between climate and human health, including how climate and weather variability affect infectious diseases and mortality.
+I received my PhD in Atmospheric and Oceanic Sciences from Princeton University where I was a Science, Technology, and Environmental Policy Fellow at HMEI. I received my BA in Earth and Planetary Sciences from Harvard University.
 
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
 
