@@ -11,7 +11,7 @@ I am currently a Postdoctoral Research Associate at the [High Meadows Environmen
 
 I received my PhD in Atmospheric and Oceanic Sciences from Princeton University where I was a Science, Technology, and Environmental Policy Fellow at HMEI. I received my BA in Earth and Planetary Sciences from Harvard University.
 
-For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile.
+For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile. Please see my [CV](https://mayavchung.github.io/cv/) for more information.
 
 ## Research Questions
 <div class="science-boxes">
