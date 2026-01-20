@@ -84,7 +84,8 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 </div>
 
 ## Research Experience
-* PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-Present
+* Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, 2026-Present
+* PhD Candidate, Program in Atmospheric and Oceanic Sciences, Princeton University, 2020-2026
 * BA / Undergraduate Researcher, Department of Earth and Planetary Sciences, Harvard University, 2015-2019
 * Summer Student Fellow, Woods Hole Oceanographic Institution, 2018
 * Summer Undergraduate Research Fellow, Scripps Institution of Oceanography, 2017
