@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Associate at the [High Meadows Environmental Institute](https://environment.princeton.edu/) at Princeton University. My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
+I am a Postdoctoral Research Associate at the [High Meadows Environmental Institute](https://environment.princeton.edu/) at Princeton University. My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
 
 I received my PhD in Atmospheric and Oceanic Sciences from Princeton University where I was a Science, Technology, and Environmental Policy Fellow at HMEI. I received my BA in Earth and Planetary Sciences from Harvard University.
 
