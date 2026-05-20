@@ -39,6 +39,8 @@ For the latest research updates, visit my [Google Scholar](https://scholar.googl
 </div>
 
 ## Publications
+* Baker, R. E., Stamper, A. R., Burrows, H., Spacey, O. G., **Chung, M. V.,** Rice, B. L., Yang, W., Wagner, C. E., Metcalf, C. J. E. (2026). Climate Change and Infectiou Diseases. _Nature
+Medicine._ [https://doi.org/10.1038/s41591-026-04377-8](https://doi.org/10.1038/s41591-026-04377-8)
 * **Chung, M. V.,** Yang, W., Vecchi, G. A. (2025). Runaway Cooling from Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake. _Geophysical Research Letters._ [https://doi.org/10.1029/2025GL117821](https://doi.org/10.1029/2025GL117821)
 * **Chung, M. V.,** Vecchi, G. A., Yang, W., Grenfell, B., and Metcalf, C. J. (2025). Intersecting memories of immunity and climate: Potential multiyear impacts of the El Niño-Southern Oscillation on infectious disease spread. _GeoHealth_, 9, e2024GH001193. [https://doi.org/10.1029/2024GH001193](https://doi.org/10.1029/2024GH001193)
 * _(Book Chapter)_ Yang, W., Levin, E., Menemenlis, S., Scapin, N., Igbinoba, M., **Chung, M.,** Rios, G., Hsieh, T.-L., Deike, L., Mitevski, I., & Vecchi, G. A. (2025). Chapter 1—Overview of tropical cyclones and historical perspective. In G. Villarini, G. A. Vecchi, & E. Scoccimarro
