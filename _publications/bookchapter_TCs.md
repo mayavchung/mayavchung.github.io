@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1 - Overview of tropical cyclones and historical perspective"
 collection: publications
-category: book chapters
+category: books
 permalink: /publication/bookchapter-TCs
 excerpt: 'Book chapter in _Tropical Cyclones and Associated Impacts: A Global Perspective_.
 
