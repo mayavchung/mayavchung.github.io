@@ -51,6 +51,14 @@ Medicine._ [https://doi.org/10.1038/s41591-026-04377-8](https://doi.org/10.1038/
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
 
+  <a href="https://areena.yle.fi/1-78376233" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
+    <img src="/images/39-1300668666712fbc2a2c.avif" alt="Finnish Broadcasting Company" style="width:100%; max-height:180px; object-fit: cover;">
+    <div style="padding: 1rem;">
+      <strong>Climate change is fueling global disease risks</strong><br>
+      <small>Podcast interview, Finnish Broadcasting Company, July 2026</small>
+    </div>
+  </a>
+
   <a href="https://gradfutures.princeton.edu/news/TrainingScientists-toConnect-Policymakers" target="_blank" style="text-decoration: none; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; display: block; background: #fff;">
     <img src="/images/SPLC_photo.webp" alt="Science Policy Cohort" style="width:100%; max-height:180px; object-fit: cover;">
     <div style="padding: 1rem;">
