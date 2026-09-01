@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Contact: mvchung@princeton.edu
+Contact: mvc2151@columbia.edu
 
 <div class="cv-container">
   <iframe src="/files/Maya_Chung_CV_2026_09.pdf" 
