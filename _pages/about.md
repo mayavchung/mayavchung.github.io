@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at the [High Meadows Environmental Institute](https://environment.princeton.edu/) at Princeton University. My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
+I am a Postdoctoral Research Scientist at the [Columbia University Climate School](https://www.climate.columbia.edu/). My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
 
-I received my PhD in Atmospheric and Oceanic Sciences from Princeton University where I was a Science, Technology, and Environmental Policy Fellow at HMEI. I received my BA in Earth and Planetary Sciences from Harvard University.
+I was previously a postdoc at the [High Meadows Environmental Institute](https://environment.princeton.edu/) and received my PhD in Atmospheric and Oceanic Sciences from Princeton University, where I was an HMEI Science, Technology, and Environmental Policy Fellow. I received my BA in Earth and Planetary Sciences from Harvard University.
 
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile. Please see my [CV](https://mayavchung.github.io/cv/) for more information.
 
