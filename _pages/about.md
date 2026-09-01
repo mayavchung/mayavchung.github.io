@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Scientist at the [Columbia University Climate School](https://www.climate.columbia.edu/). My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to centennial), and processes spanning weather and climate. 
+I am a Postdoctoral Research Scientist at the [Columbia University Climate School](https://www.climate.columbia.edu/). My research explores intersections between climate and human health, as well as global climate variability and change. I enjoy connecting different tools (climate models and observational data), timescales (seasonal to decadal), and processes spanning weather and climate. 
 
 I was previously a postdoc at the [High Meadows Environmental Institute](https://environment.princeton.edu/) and received my PhD in Atmospheric and Oceanic Sciences from Princeton University, where I was an HMEI Science, Technology, and Environmental Policy Fellow. I received my BA in Earth and Planetary Sciences from Harvard University.
 
