@@ -13,7 +13,7 @@ I was previously a postdoc at the [High Meadows Environmental Institute](https:/
 
 For the latest research updates, visit my [Google Scholar](https://scholar.google.com/citations?user=h5lDhDwAAAAJ&hl=en) profile. Please see my [CV](https://mayavchung.github.io/cv/) for more information.
 
-Contact: maya.chung@columbia.edu
+Contact: <maya.chung@columbia.edu>
 
 ## Research Questions
 <div class="science-boxes">
