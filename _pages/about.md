@@ -96,9 +96,10 @@ Medicine._ [https://doi.org/10.1038/s41591-026-04377-8](https://doi.org/10.1038/
 </div>
 
 ## Research Experience
-* Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, 2026-Present
-* PhD in Atmospheric and Oceanic Sciences, Princeton University, 2026
-* BA in Earth and Planetary Sciences, Harvard University, 2019
+* Postdoctoral Research Scientist, Columbia University Climate School, Sept 2026-Present
+* Postdoctoral Research Associate, High Meadows Environmental Institute, Princeton University, Feb-Aug 2026
+* PhD in Atmospheric and Oceanic Sciences, Princeton University, Jul 2020-Jan 2026
+* BA in Earth and Planetary Sciences, Harvard University, 2015-2019
 * Summer Student Fellow, Woods Hole Oceanographic Institution, 2018
 * Summer Undergraduate Research Fellow, Scripps Institution of Oceanography, 2017
 
